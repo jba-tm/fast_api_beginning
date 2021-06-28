@@ -1,6 +1,6 @@
 # Security Intro
 
-# OAuth2¶
+# OAuth2
 # OAuth2 is a specification that defines several ways to handle authentication and authorization.
 #
 # It is quite an extensive specification and covers several complex use cases.
@@ -9,7 +9,7 @@
 #
 # That's what all the systems with "login with Facebook, Google, Twitter, GitHub" use underneath.
 #
-# OAuth 1¶
+# OAuth 1
 # There was an OAuth 1, which is very different from OAuth2, and more complex, as it included directly specifications on how to encrypt the communication.
 #
 # It is not very popular or used nowadays.
